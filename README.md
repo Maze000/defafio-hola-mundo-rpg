@@ -4,8 +4,8 @@ Las tecnologias usadas fueron html5, css3 y js.
 Para instalar el proyecto puedes clonarlo o dercargar los archivos.
 No necesitas instalar dependencias.
 Para ejecutar el proyecto debes abrir el archivo index.html con tu navegador.
-link del juego https://maze000.github.io/newworldorder.github.io/
-Disfrutalo!
+Link del juego https://maze000.github.io/newworldorder.github.io/
+Disfrútalo!
 ![img1](https://user-images.githubusercontent.com/72741681/168579122-42bd5edd-5131-4efe-9073-209b3ffdf07b.png)
 ![img2](https://user-images.githubusercontent.com/72741681/168579137-e44d0064-41a4-48e9-acd5-74550f622876.png)
 ![img3](https://user-images.githubusercontent.com/72741681/168579155-390da9a6-c101-452e-9812-69b4299f9e69.png)
