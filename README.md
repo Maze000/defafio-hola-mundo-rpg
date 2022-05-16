@@ -26,10 +26,10 @@ https://maze000.github.io/newworldorder.github.io/</br>
 
 Disfrútalo!
 
-tracks
-Front 2 Back Sum It
-Mammoth Cecilia Lindh
-Universal Solution Robert Ruth
+tracks</br>
+Front 2 Back Sum It</br>
+Mammoth Cecilia Lindh</br>
+Universal Solution Robert Ruth</br>
 
 Autor</br>
 Programación, música y diseño MAZE000.
