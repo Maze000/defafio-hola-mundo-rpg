@@ -6,16 +6,16 @@ Tipo</br>
 video-game rpg clicker mode.
 
 Tecnologías</br>
-Las tecnologias usadas fueron html5, css3 y js.
+Las tecnologías usadas fueron html5, css3 y js.
 
-Instalacion</br>
+Instalación</br>
 Para instalar el proyecto puedes clonarlo o dercargar los archivos.
 
 Requerimientos</br>
-Un navegador.
+Un navegador.</br>
 No necesitas instalar dependencias.
 
-Ejecucion</br>
+Ejecución</br>
 Para ejecutar el proyecto debes abrir el archivo index.html con tu navegador.
 
 Link del juego</br>
