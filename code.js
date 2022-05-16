@@ -4,24 +4,20 @@ function cargado(){
         if(document.hidden){
             if(verdadero){
             cambio1=false;
-            
             clearTimeout(prima1);
-            clearTimeout(pausa);
-            
-
-           } 
+            clearTimeout(pausa);    
+            } 
         }else{
             if(verdadero){
                 frame();
                 ctx.clearRect(50,0,canvas.width,canvas.height);
                 cambio1=true;
-                prima1=setInterval(prima, 1200);
-               
-            }
-        }   
-      });
+                prima1=setInterval(prima, 1200);      
+        }
+      }   
+    });
 
-var canvas = document.getElementById("canvas1"); //canvas.style.cursor = 'none';//solo esta linea hace desaparecer el cursor.
+var canvas = document.getElementById("canvas1");
 var ctx = canvas.getContext("2d");
 var canvasWidth = 650; 
 var canvasHeight = 350;
@@ -136,8 +132,8 @@ var contM=0
 
 
 
-ctx.font = "15px Segoe Script";//--------------------------1
-ctx.fillStyle = "#00FFFF";//--------------------------1
+ctx.font = "15px Segoe Script";
+ctx.fillStyle = "#00FFFF";
                 
                
 //character animation
@@ -148,12 +144,12 @@ var rows = 1;
 var cols = 18;
 var width = spriteWidth/cols;//108 
 var height = spriteHeight/rows;//140 
-var curFrame = 108;// valor inicial de animacion
+var curFrame = 108;
 var frameCount = 18; 
-var srcX=0;// esto es para que aparezca el primer cuadro de la imagen al principio
+var srcX=0;
 var srcY=0;
-var  numX2;//reitero si no los defino funciona igual//si no las defino igual funciona. Tal vez si no las defino, se consideran globales.
-var  numY2;//
+var  numX2;
+var  numY2;
                 
 //images 
 var barra1 = {                                                                                            
@@ -310,7 +306,7 @@ boton.addEventListener("click", intro00);
                     modal5.style.display = "none";
                     
                     modal7.style.display = "initial";
-                    loading=setTimeout(intro0,5000);//eliminar este timeout,recordar.
+                    loading=setTimeout(intro0,5000);
                 }
 
                 function intro0(){
@@ -319,7 +315,7 @@ boton.addEventListener("click", intro00);
                     modal5.style.display = "initial";
                     
                     modal7.style.display = "none";
-                    loading=setTimeout(intro,8000);//eliminar este timeout,recordar.
+                    loading=setTimeout(intro,8000);
                 }
 
                 function intro(){
