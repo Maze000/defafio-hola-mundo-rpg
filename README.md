@@ -2,24 +2,24 @@
 
 💻 Explicacion del proyecto
 
-Tipo
+Tipo</br>
 video-game rpg clicker mode.
 
-Tecnologías
+Tecnologías</br>
 Las tecnologias usadas fueron html5, css3 y js.
 
-Instalacion
+Instalacion</br>
 Para instalar el proyecto puedes clonarlo o dercargar los archivos.
 
-Requerimientos
+Requerimientos</br>
 Un navegador.
 No necesitas instalar dependencias.
 
-Ejecucion
+Ejecucion</br>
 Para ejecutar el proyecto debes abrir el archivo index.html con tu navegador.
 
-Link del juego 
-https://maze000.github.io/newworldorder.github.io/
+Link del juego</br>
+https://maze000.github.io/newworldorder.github.io/</br>
 
 Disfrútalo!
 
