@@ -26,7 +26,7 @@ https://maze000.github.io/newworldorder.github.io/</br>
 
 Disfrútalo!
 
-tracks</br>
+Songs</br>
 Front 2 Back Sum It</br>
 Mammoth Cecilia Lindh</br>
 Universal Solution Robert Ruth</br>
