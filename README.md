@@ -1,6 +1,6 @@
 # desafio-hola-mundo-rpg
 
-✏️💻 Project explanation
+💻 Explicacion del proyecto
 
 video-game rpg clicker mode.
 Las tecnologias usadas fueron html5, css3 y js.
@@ -10,12 +10,9 @@ Para ejecutar el proyecto debes abrir el archivo index.html con tu navegador.
 Link del juego https://maze000.github.io/newworldorder.github.io/
 Disfrútalo!
 
-++++
-  <h1 align="center">🐦 Dome Punk🐓</h1>
-  <p align="center">
-    
-  </p>
-++++
+
+  <h1 align="center">🤩 NEW WORLD ORDER 🤩</h1>
+
 
 ![img1](https://user-images.githubusercontent.com/72741681/168579122-42bd5edd-5131-4efe-9073-209b3ffdf07b.png)
 ![img2](https://user-images.githubusercontent.com/72741681/168579137-e44d0064-41a4-48e9-acd5-74550f622876.png)
