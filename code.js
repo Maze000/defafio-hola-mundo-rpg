@@ -3,18 +3,18 @@ function cargado(){
     document.addEventListener("visibilitychange", function() {
         if(document.hidden){
             if(verdadero){
-            cambio1=false;
-            clearTimeout(prima1);
-            clearTimeout(pausa);    
+                cambio1=false;
+                clearTimeout(prima1);
+                clearTimeout(pausa);    
             } 
-        }else{
-            if(verdadero){
-                frame();
-                ctx.clearRect(50,0,canvas.width,canvas.height);
-                cambio1=true;
-                prima1=setInterval(prima, 1200);      
-        }
-      }   
+        }   else{
+                if(verdadero){
+                    frame();
+                    ctx.clearRect(50,0,canvas.width,canvas.height);
+                    cambio1=true;
+                    prima1=setInterval(prima, 1200);      
+                }
+          }   
     });
 
 var canvas = document.getElementById("canvas1");
@@ -283,7 +283,7 @@ red.img.src = "./img/readyI.png";
 
  //visibility modal           
 
-modal2.style.display = "none";//aparece la segunda ventana invisible.
+modal2.style.display = "none";
 modal4.style.display = "none";
 modal5.style.display = "none";
 modal7.style.display = "none";
@@ -706,7 +706,7 @@ boton.addEventListener("click", intro00);
                 var contEnemy=0;
                 var dificultad;
                 var listDif=[];
-                var speed=[1000,800,700];
+                var speed=[1000,800,600];
                 var desf=false;
                 function drawUno(){
                     numRan=parseInt(Math.random()*16);
