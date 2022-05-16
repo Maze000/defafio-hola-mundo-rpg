@@ -24,8 +24,6 @@ Peso</br>
 Link del juego</br>
 https://maze000.github.io/newworldorder.github.io/</br>
 
-Disfrútalo!
-
 Songs</br>
 Front 2 Back Sum It</br>
 Mammoth Cecilia Lindh</br>
@@ -33,6 +31,8 @@ Universal Solution Robert Ruth</br>
 
 Autor</br>
 Programación y diseño MAZE000.
+
+Disfrútalo!
 
   <h1 align="center">🤩 NEW WORLD ORDER 🤩</h1>
 
