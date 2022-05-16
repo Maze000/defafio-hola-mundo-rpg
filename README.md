@@ -32,7 +32,7 @@ Mammoth Cecilia Lindh</br>
 Universal Solution Robert Ruth</br>
 
 Autor</br>
-Programación, música y diseño MAZE000.
+Programación y diseño MAZE000.
 
   <h1 align="center">🤩 NEW WORLD ORDER 🤩</h1>
 
