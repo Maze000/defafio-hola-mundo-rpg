@@ -18,6 +18,9 @@ No necesitas instalar dependencias.
 Ejecución</br>
 Para ejecutar el proyecto debes abrir el archivo index.html con tu navegador.
 
+Peso</br>
+24mg
+
 Link del juego</br>
 https://maze000.github.io/newworldorder.github.io/</br>
 
