@@ -23,7 +23,7 @@ https://maze000.github.io/newworldorder.github.io/</br>
 
 Disfrútalo!
 
-Autor
+Autor</br>
 Programación, música y diseño MAZE000.
 
   <h1 align="center">🤩 NEW WORLD ORDER 🤩</h1>
