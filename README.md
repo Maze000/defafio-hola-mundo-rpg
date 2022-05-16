@@ -1,5 +1,5 @@
 # desafio-hola-mundo-rpg
-video-game rpg clicker mode.
+<h1>video-game rpg clicker mode.</h1>
 Las tecnologias usadas fueron html5, css3 y js.
 Para instalar el proyecto puedes clonarlo o dercargar los archivos.
 No necesitas instalar dependencias.
