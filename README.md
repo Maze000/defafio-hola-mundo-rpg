@@ -1,6 +1,6 @@
 # desafio-hola-mundo-rpg
 
-💻 Explicacion del proyecto
+💻 Explicación del proyecto
 
 Tipo</br>
 video-game rpg clicker mode.
