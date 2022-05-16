@@ -1,4 +1,7 @@
 # desafio-hola-mundo-rpg
+
+👩‍💻 Project explanation
+
 video-game rpg clicker mode.
 Las tecnologias usadas fueron html5, css3 y js.
 Para instalar el proyecto puedes clonarlo o dercargar los archivos.
