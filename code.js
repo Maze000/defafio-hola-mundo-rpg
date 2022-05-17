@@ -501,23 +501,7 @@ boton.addEventListener("click", intro00);
                 boton2.addEventListener("click", findeJuego);
 
                 function findeJuego(){
-                    Su=1000;
-                    Sd=850;
-                    St=650;
-                    sp=true;
-                    document.getElementById("body1").style.backgroundImage='url("./img/back1.png")';
-                    contM=0;
-                    audio1=true;
-                    enemi1=false;
-                    seg=59;
-                    vidas = 3;
-                    modal.style.display = "initial";
-                    canvas.style.backgroundImage = 'url("./img/g3.gif")';
-                    aumento=101.1;
-                    aumento3=101.1;
-                    contEnemy=0;
-                    otroC=0;
-                    humans=0;   
+                    document.location.reload();
                 }
                 function dibujar(){
                     if(verdadero&&aumento>=1){
