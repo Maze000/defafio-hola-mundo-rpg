@@ -501,8 +501,7 @@ boton.addEventListener("click", intro00);
                 boton2.addEventListener("click", findeJuego);
 
                 function findeJuego(){
-                    document.location.reload();
-                    /*Su=1000;
+                    Su=1000;
                     Sd=850;
                     St=650;
                     sp=true;
@@ -518,7 +517,7 @@ boton.addEventListener("click", intro00);
                     aumento3=101.1;
                     contEnemy=0;
                     otroC=0;
-                    humans=0;*/    
+                    humans=0;   
                 }
                 function dibujar(){
                     if(verdadero&&aumento>=1){
