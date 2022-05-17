@@ -501,6 +501,10 @@ boton.addEventListener("click", intro00);
                 boton2.addEventListener("click", findeJuego);
 
                 function findeJuego(){
+                    Su=1000;
+                    Sd=850;
+                    St=650;
+                    sp=true;
                     document.getElementById("body1").style.backgroundImage='url("./img/back1.png")';
                     contM=0;
                     audio1=true;
@@ -704,11 +708,20 @@ boton.addEventListener("click", intro00);
                 var contEnemy=0;
                 var dificultad;
                 var listDif=[];
-                var speed=[1000,750,550];
+                var Su=1000;
+                var Sd=850;
+                var St=650;
+                var sp=true;
+                var speed=[Su,Sd,St];
                 var desf=false;
                 function drawUno(){
                     numRan=parseInt(Math.random()*16);
                     dificultad=parseInt((Math.random()*10)+1);
+                     if(aumento3<=40){
+                        speed[contEnemy]=speed[contEnemy]-150;
+                        sp=false;
+                    }
+                    speed=[Su,Sd,St];
                     if(dificultad>=8){
                         numRanEn=1;   
                     }
