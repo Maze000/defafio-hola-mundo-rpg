@@ -704,7 +704,7 @@ boton.addEventListener("click", intro00);
                 var contEnemy=0;
                 var dificultad;
                 var listDif=[];
-                var speed=[1000,800,700];
+                var speed=[1000,750,550];
                 var desf=false;
                 function drawUno(){
                     numRan=parseInt(Math.random()*16);
