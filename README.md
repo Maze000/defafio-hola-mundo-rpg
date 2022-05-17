@@ -7,39 +7,39 @@
 </p>
 
 
-                                                               💻 Desciption
+                                                               💻 Description
 
-                                                                    Type</br>
+                                                                    Type
                                                            video-game rpg clicker mode.
 
-                                                                  Technologies</br>
+                                                                  Technologies
                                                    The technologies used were html5, css3 and js.
 
-                                                                  Installation</br>
+                                                                  Installation
                                             To install the project you can clone it or download the files.
 
-                                                                  Requirements</br>
-                                                                   A browser.</br>
+                                                                  Requirements
+                                                                   A browser.
                                                       You don't need to install dependencies.
 
-                                                                   Execution</br>
+                                                                   Execution
                                        To run the project you must open the index.html file with your browser.
 
-                                                                      Size</br>
+                                                                      Size
                                                                       24mg
 
                                                                Link of the game</br>
-                                               https://maze000.github.io/newworldorder.github.io/</br>
+                                               https://maze000.github.io/newworldorder.github.io/
 
-                                                                     Songs</br>
-                                                               Front 2 Back Sum It</br>
-                                                               Mammoth Cecilia Lindh</br>
-                                                               Universal Solution Robert Ruth</br>
+                                                                     Songs
+                                                               Front 2 Back Sum It
+                                                               Mammoth Cecilia Lindh
+                                                               Universal Solution Robert Ruth
 
-                                                                     Author</br>
+                                                                     Author
                                                             Programming and design MAZE000.
 
-                                                                      Enjoy it!
+                                                                    Enjoy it!
 
   
 
