@@ -959,5 +959,5 @@ boton.addEventListener("click", intro00);
                
                 }
 }
-window.addEventListener('load', cargado, false);
+window.addEventListener('DOMContentLoaded', cargado, false);
 
