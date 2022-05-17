@@ -5,16 +5,17 @@ function cargado(){
             if(verdadero){
                 cambio1=false;
                 clearTimeout(prima1);
-                clearTimeout(pausa);    
+                clearTimeout(pausa);
             } 
-        }   else{
-                if(verdadero){
-                    frame();
-                    ctx.clearRect(50,0,canvas.width,canvas.height);
-                    cambio1=true;
-                    prima1=setInterval(prima, 1200);      
-                }
-          }   
+        }
+        else{
+            if(verdadero){
+                frame();
+                ctx.clearRect(50,0,canvas.width,canvas.height);
+                cambio1=true;
+                prima1=setInterval(prima, 1200);
+            }
+        }   
     });
 
 var canvas = document.getElementById("canvas1");
@@ -353,10 +354,7 @@ boton.addEventListener("click", intro00);
 
 // sound function                
                 
-                function playSonido(){
-                    boom.play();
-                    boom.volume=0;//.1
-                }
+               
                 
                 function cbr1(){
                     cbr.play();
@@ -596,7 +594,7 @@ boton.addEventListener("click", intro00);
                                                  ali1(ali);
                                                  explosion(ex);
                                                  ctx.clearRect(0,30,canvas.width,canvas.height);
-                                                 playSonido(boom);
+                                                 
                                                  moveLeft();
                                                  clearTimeout(drawPrima);
                                                  humans+=50;
@@ -608,7 +606,7 @@ boton.addEventListener("click", intro00);
                                                  gas.play();
                                                  moverizquierda();
                                                  ctx.clearRect(0,30,canvas.width,canvas.height);
-                                                 playSonido(boom);
+                                                 
                                                  moveLeft();
                                                  clearTimeout(drawPrima);
                                                  activarAN=false;
@@ -619,7 +617,7 @@ boton.addEventListener("click", intro00);
                                           if (window.event.clientX > (numX2*(window.innerWidth/650)) && window.event.clientX < (numX2*(window.innerWidth/650))+((window.innerWidth/650)*108) && window.event.clientY> numY2*(window.innerHeight/350) && window.event.clientY < (numY2*(window.innerHeight/350))+(cambioFull) && activarAN && !enemi1 && desf){
                                               grito.play();
                                               explosion(ex);
-                                              playSonido(boom);
+                                              
                                               moveLeft();
                                               clearTimeout(drawPrima);
                                               activarAN=false;
@@ -646,7 +644,7 @@ boton.addEventListener("click", intro00);
                                           ali1(ali);
                                           explosion(ex);
                                           ctx.clearRect(0,30,canvas.width,canvas.height);
-                                          playSonido(boom);
+                                          
                                           moveLeft();
                                           clearTimeout(drawPrima);
                                           humans+=50;
@@ -658,7 +656,7 @@ boton.addEventListener("click", intro00);
                                           gas.play();
                                           moverizquierda();
                                           ctx.clearRect(0,30,canvas.width,canvas.height);
-                                          playSonido(boom);
+                                          
                                           moveLeft();
                                           clearTimeout(drawPrima);
                                           activarAN=false;
@@ -667,7 +665,7 @@ boton.addEventListener("click", intro00);
                                   if (window.event.clientX-320 > numX2 && window.event.clientX-320 < numX2+108  && window.event.clientY-180 > numY2 && window.event.clientY-180 < numY2+140 && activarAN && !enemi1 && desf){
                                       grito.play();
                                       explosion(ex);
-                                      playSonido(boom);
+                                      
                                       moveLeft();
                                       clearTimeout(drawPrima);
                                       activarAN=false;
@@ -706,7 +704,7 @@ boton.addEventListener("click", intro00);
                 var contEnemy=0;
                 var dificultad;
                 var listDif=[];
-                var speed=[1000,800,600];
+                var speed=[1000,800,700];
                 var desf=false;
                 function drawUno(){
                     numRan=parseInt(Math.random()*16);
@@ -949,3 +947,4 @@ boton.addEventListener("click", intro00);
                 }
 }
 window.addEventListener('load', cargado, false);
+
