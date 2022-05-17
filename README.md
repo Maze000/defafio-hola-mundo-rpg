@@ -13,7 +13,7 @@
                                                         video-game rpg clicker mode.
 
                                                                Technologies
-                                                The technologies used were html5, css3 and js.
+                                                            html5, css3 and js.
 
                                                                Installation
                                          To install the project you can clone it or download the files.
