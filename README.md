@@ -1,6 +1,9 @@
 
-<h1 align="center"><strong>NEW WORLD ORDER</strong></h1>
 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/72741681/168866757-0e53796f-5c00-41f3-a5c8-fc4cdb066151.png">
+</p>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/72741681/168800134-4284aa65-290c-4dab-a9d3-757773ddb405.gif">
