@@ -6,8 +6,7 @@
 <img src="https://user-images.githubusercontent.com/72741681/168800134-4284aa65-290c-4dab-a9d3-757773ddb405.gif">
 </p>
 
-
-                                                            💻 Description
+<p align="center">💻 Description
 
                                                                  Type
                                                         video-game rpg clicker mode.
@@ -29,7 +28,7 @@
                                                                    24mg
 
                                                              Link of the game
-   <p align="center"><a href="https://maze000.github.io/newworldorder.github.io/"><strong>NEW WORLD ORDER</strong></a></p>
+<p align="center"> <a href="https://maze000.github.io/newworldorder.github.io/"><strong>NEW WORLD ORDER</strong></a></p>
 
                                                                   Songs
                                                            Front 2 Back Sum It
@@ -39,7 +38,7 @@
                                                                   Author
                                                       Programming and design MAZE000.
 
-                                                                 Enjoy it!
+                                                               Enjoy it!
 
   
 
