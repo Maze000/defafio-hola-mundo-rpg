@@ -7,39 +7,39 @@
 </p>
 
 
-                                                               💻 Description
+                                                            💻 Description
 
-                                                                    Type
-                                                           video-game rpg clicker mode.
+                                                                 Type
+                                                        video-game rpg clicker mode.
 
-                                                                  Technologies
-                                                   The technologies used were html5, css3 and js.
+                                                               Technologies
+                                                The technologies used were html5, css3 and js.
 
-                                                                  Installation
-                                            To install the project you can clone it or download the files.
+                                                               Installation
+                                         To install the project you can clone it or download the files.
 
-                                                                  Requirements
-                                                                   A browser.
-                                                      You don't need to install dependencies.
+                                                               Requirements
+                                                                A browser.
+                                                   You don't need to install dependencies.
 
-                                                                   Execution
-                                       To run the project you must open the index.html file with your browser.
+                                                                Execution
+                                    To run the project you must open the index.html file with your browser.
 
-                                                                      Size
-                                                                      24mg
+                                                                   Size
+                                                                   24mg
 
-                                                               Link of the game</br>
-                                               https://maze000.github.io/newworldorder.github.io/
+                                                             Link of the game
+   <p align="center"><a href="https://maze000.github.io/newworldorder.github.io/"><strong>NEW WORLD ORDER</strong></a></p>
 
-                                                                     Songs
-                                                               Front 2 Back Sum It
-                                                               Mammoth Cecilia Lindh
-                                                               Universal Solution Robert Ruth
+                                                                  Songs
+                                                           Front 2 Back Sum It
+                                                           Mammoth Cecilia Lindh
+                                                           Universal Solution Robert Ruth
 
-                                                                     Author
-                                                            Programming and design MAZE000.
+                                                                  Author
+                                                      Programming and design MAZE000.
 
-                                                                    Enjoy it!
+                                                                 Enjoy it!
 
   
 
