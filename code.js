@@ -11,7 +11,7 @@ function cargado(){
         else{
             if(verdadero){
                 frame();
-                ctx.clearRect(50,0,canvas.width,canvas.height);
+                ctx.clearRect(0,30,canvas.width,canvas.height);
                 cambio1=true;
                 prima1=setInterval(prima, 1200);
             }
@@ -582,7 +582,6 @@ boton.addEventListener("click", intro00);
                                                  ali1(ali);
                                                  explosion(ex);
                                                  ctx.clearRect(0,30,canvas.width,canvas.height);
-                                                 
                                                  moveLeft();
                                                  clearTimeout(drawPrima);
                                                  humans+=50;
@@ -594,7 +593,6 @@ boton.addEventListener("click", intro00);
                                                  gas.play();
                                                  moverizquierda();
                                                  ctx.clearRect(0,30,canvas.width,canvas.height);
-                                                 
                                                  moveLeft();
                                                  clearTimeout(drawPrima);
                                                  activarAN=false;
@@ -605,11 +603,11 @@ boton.addEventListener("click", intro00);
                                           if (window.event.clientX > (numX2*(window.innerWidth/650)) && window.event.clientX < (numX2*(window.innerWidth/650))+((window.innerWidth/650)*108) && window.event.clientY> numY2*(window.innerHeight/350) && window.event.clientY < (numY2*(window.innerHeight/350))+(cambioFull) && activarAN && !enemi1 && desf){
                                               grito.play();
                                               explosion(ex);
-                                              
                                               moveLeft();
                                               clearTimeout(drawPrima);
                                               activarAN=false;
                                               moverizquierda();
+                                              moverDerecha();
                                           }
                                      }
                                 }
@@ -632,7 +630,6 @@ boton.addEventListener("click", intro00);
                                           ali1(ali);
                                           explosion(ex);
                                           ctx.clearRect(0,30,canvas.width,canvas.height);
-                                          
                                           moveLeft();
                                           clearTimeout(drawPrima);
                                           humans+=50;
@@ -644,7 +641,6 @@ boton.addEventListener("click", intro00);
                                           gas.play();
                                           moverizquierda();
                                           ctx.clearRect(0,30,canvas.width,canvas.height);
-                                          
                                           moveLeft();
                                           clearTimeout(drawPrima);
                                           activarAN=false;
@@ -653,7 +649,6 @@ boton.addEventListener("click", intro00);
                                   if (window.event.clientX-320 > numX2 && window.event.clientX-320 < numX2+108  && window.event.clientY-180 > numY2 && window.event.clientY-180 < numY2+140 && activarAN && !enemi1 && desf){
                                       grito.play();
                                       explosion(ex);
-                                      
                                       moveLeft();
                                       clearTimeout(drawPrima);
                                       activarAN=false;
@@ -882,7 +877,6 @@ boton.addEventListener("click", intro00);
                             clearTimeout(prima1);
                             clearTimeout(pausa);
                             otroC++;
-                            console.log("otroC"+" "+otroC)
                             ventana=false;
                             contador=0;
                             activarAN=true;
