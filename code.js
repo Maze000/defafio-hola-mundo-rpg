@@ -293,7 +293,7 @@ modal7.style.display = "none";
 //background
 
 var backgame=['url("./img/g3.gif")','url("./img/b8.gif")','url("./img/b7.gif")'];
-var level=['url("./img/level1.png")','url("./img/level2.png")','url("./img/level3.png")'];
+var level=['url("./img/level1N.png")','url("./img/level2N.png")','url("./img/level3N.png")'];
 //modal function 
 
 boton.addEventListener("click", intro00);
