@@ -14,7 +14,7 @@
 <p align="center"> <strong>TYPE</strong>
 <p align="center"> video-game rpg clicker mode.
   
-<p align="center">TIME OF DEVELOPMENT
+<p align="center"><strong>TIME OF DEVELOPMENT</strong>
 <p align="center">2 weeks and some days.
 
  <p align="center"> <strong>TECHNOLOGIES</strong>
