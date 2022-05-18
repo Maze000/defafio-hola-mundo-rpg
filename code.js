@@ -863,34 +863,7 @@ boton.addEventListener("click", intro00);
                             document.getElementsByTagName("body")[0].style.cursor = "url('./img/combo1.png'), auto";
                         }
                         if(aumento3<=0){
-                            music[contM].pause();
-                            music[contM].currentTime = 0;
-                            aumento3=101.1;
-                            document.getElementsByTagName("body")[0].style.cursor = "default";  
-                            clearTimeout(timeAN);
-                            boom3.play();
-                            verdadero=false;
-                            ctx.clearRect(0,0,canvas.width,canvas.height);
-                            setTimeout(ventanaPre2,3000);
-                            clearTimeout(reloj);
-                            clearTimeout(drawPrima);
-                            clearTimeout(prima1);
-                            clearTimeout(pausa);
-                            otroC++;
-                            ventana=false;
-                            contador=0;
-                            activarAN=true;
-                            left = false;
-                            right = true;
-                            primaAux= true;
-                            auxi = true;
-                            srcX=0;
-                            srcY=0;
-                            numX2=-200;
-                            numY2=-200;
-                            if(contEnemy<=1){
-                                contEnemy++;
-                            }
+                            setTimeout(finalEn,1000);
                         }
                         
                     }
@@ -935,6 +908,39 @@ boton.addEventListener("click", intro00);
                         numY2=-200;
                     }
                
+                }
+                 function finalEn (){
+                            music[contM].pause();
+                            music[contM].currentTime = 0;
+                            aumento3=101.1;
+                            document.getElementsByTagName("body")[0].style.cursor = "default";  
+                            clearTimeout(timeAN);
+                            boom3.play();
+                            verdadero=false;
+                            ctx.clearRect(0,0,canvas.width,canvas.height);
+                            setTimeout(ventanaPre2,3000);
+                            clearTimeout(reloj);
+                            clearTimeout(drawPrima);
+                            clearTimeout(prima1);
+                            clearTimeout(pausa);
+                            otroC++;
+                            console.log("otroC"+" "+otroC)
+                            ventana=false;
+                            contador=0;
+                            activarAN=true;
+                            left = false;
+                            right = true;
+                            primaAux= true;
+                            auxi = true;
+                            srcX=0;
+                            srcY=0;
+                            numX2=-200;
+                            numY2=-200;
+                            if(contEnemy<=1){
+                                contEnemy++;
+                                
+                            }
+
                 }
 }
 window.addEventListener('DOMContentLoaded', cargado, false);
