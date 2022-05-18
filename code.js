@@ -713,10 +713,10 @@ boton.addEventListener("click", intro00);
                     if(dificultad<=7){
                         numRanEn2=0;
                     }
-                    if(dificultad>=8){
+                    if(dificultad>=7){
                         numRanEn3=1;
                     }
-                    if(dificultad<=7){
+                    if(dificultad<=6){
                         numRanEn3=0;
                     }
                     listDif=[numRanEn,numRanEn2,numRanEn3];
