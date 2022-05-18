@@ -924,7 +924,6 @@ boton.addEventListener("click", intro00);
                             clearTimeout(prima1);
                             clearTimeout(pausa);
                             otroC++;
-                            console.log("otroC"+" "+otroC)
                             ventana=false;
                             contador=0;
                             activarAN=true;
