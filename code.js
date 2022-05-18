@@ -696,7 +696,7 @@ boton.addEventListener("click", intro00);
                 function drawUno(){
                     numRan=parseInt(Math.random()*16);
                     dificultad=parseInt((Math.random()*10)+1);
-                     if(aumento3<=40){
+                     if(aumento3<=50){
                         speed[contEnemy]=speed[contEnemy]-150;
                         sp=false;
                     }
