@@ -334,7 +334,7 @@ boton.addEventListener("click", intro00);
                     moneda.play();
                     modal4.style.display = "none";//intro
                     full.style.display = "none";
-                    canvas.style.backgroundImage = 'url("./img/level1.png")';
+                    canvas.style.backgroundImage = 'url("./img/level1N.png")';
                     setTimeout(iniciarJuegoR,4000);
                 }
 
