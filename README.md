@@ -34,7 +34,7 @@
  <p align="center"> 24mg
 
  <p align="center"> <strong>   LINK OF THE GAME</strong>
-<p align="center"> <a href="https://maze000.github.io/desafio-hola-mundo-rpg/"><strong>NEW WORLD ORDER</strong></a></p>
+<p align="center"> <a href="https://maze000.github.io/newWorldOrder-rpg/"><strong>NEW WORLD ORDER</strong></a></p>
 
  <p align="center"> <strong>SONGS(Royalty-Free Music)</strong>
 <p align="center">  Front 2 Back Sum It
