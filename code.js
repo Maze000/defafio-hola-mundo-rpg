@@ -863,6 +863,7 @@ boton.addEventListener("click", intro00);
                             document.getElementsByTagName("body")[0].style.cursor = "url('./img/combo1.png'), auto";
                         }
                         if(aumento3<=0){
+                            aumento3=0;
                             setTimeout(finalEn,1000);
                         }
                         
