@@ -42,7 +42,7 @@
 <p align="center">  Universal Solution Robert Ruth
 
 <p align="center">  <strong>AUTHOR</strong>
-<p align="center">  Programming and design MAZE000.
+<p align="center">  Programming and design Patricio Molina.
 
 <p align="center">  Enjoy it!
 
